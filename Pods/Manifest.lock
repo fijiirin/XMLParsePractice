@@ -1,0 +1,28 @@
+PODS:
+  - Hex (6.1.0)
+  - ImpressiveNotifications (0.5.0)
+  - lottie-ios (3.2.1)
+  - SegementSlide (3.0.1)
+
+DEPENDENCIES:
+  - Hex
+  - ImpressiveNotifications
+  - lottie-ios
+  - SegementSlide
+
+SPEC REPOS:
+  trunk:
+    - Hex
+    - ImpressiveNotifications
+    - lottie-ios
+    - SegementSlide
+
+SPEC CHECKSUMS:
+  Hex: 2f67dd0cbb178cb24992e7529b025b8d16ff0bdc
+  ImpressiveNotifications: 9a3921276e916e244abb7e4b2a6661133479a17c
+  lottie-ios: 106e92eaf11fbed0a76590b4cdb9b5ec26123ff7
+  SegementSlide: 83b56ffb66b9c0edc4e4f2a74229309c62915db3
+
+PODFILE CHECKSUM: 22419d9804b4bcb9b094b43a1d54737659a7dfc3
+
+COCOAPODS: 1.10.1
