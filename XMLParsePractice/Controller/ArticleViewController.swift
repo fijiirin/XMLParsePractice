@@ -70,6 +70,7 @@ class ArticleViewController: UIViewController, UITableViewDelegate, UITableViewD
     } else {
       
       currentElementName = elementName
+      
     }
   }
   
