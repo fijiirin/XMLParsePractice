@@ -8,7 +8,7 @@
 import Foundation
 
 
-struct ArticleItem {
+class ArticleItem {
   
   var title:String?
   var date:String?
